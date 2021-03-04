@@ -1,0 +1,5 @@
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson5\ProjectTestThread\WPFThread\obj\Debug\netcoreapp3.1\WPFThread.csprojAssemblyReference.cache
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson5\ProjectTestThread\WPFThread\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson5\ProjectTestThread\WPFThread\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson5\ProjectTestThread\WPFThread\obj\Debug\netcoreapp3.1\WPFThread_MarkupCompile.cache
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson5\ProjectTestThread\WPFThread\obj\Debug\netcoreapp3.1\WPFThread_MarkupCompile.lref

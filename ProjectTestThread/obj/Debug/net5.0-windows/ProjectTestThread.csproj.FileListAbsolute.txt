@@ -1,0 +1,15 @@
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson5\ProjectTestThread\ProjectTestThread\bin\Debug\net5.0-windows\ProjectTestThread.exe
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson5\ProjectTestThread\ProjectTestThread\bin\Debug\net5.0-windows\ProjectTestThread.deps.json
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson5\ProjectTestThread\ProjectTestThread\bin\Debug\net5.0-windows\ProjectTestThread.runtimeconfig.json
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson5\ProjectTestThread\ProjectTestThread\bin\Debug\net5.0-windows\ProjectTestThread.runtimeconfig.dev.json
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson5\ProjectTestThread\ProjectTestThread\bin\Debug\net5.0-windows\ProjectTestThread.dll
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson5\ProjectTestThread\ProjectTestThread\bin\Debug\net5.0-windows\ref\ProjectTestThread.dll
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson5\ProjectTestThread\ProjectTestThread\bin\Debug\net5.0-windows\ProjectTestThread.pdb
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson5\ProjectTestThread\ProjectTestThread\obj\Debug\net5.0-windows\ProjectTestThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson5\ProjectTestThread\ProjectTestThread\obj\Debug\net5.0-windows\ProjectTestThread.AssemblyInfoInputs.cache
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson5\ProjectTestThread\ProjectTestThread\obj\Debug\net5.0-windows\ProjectTestThread.AssemblyInfo.cs
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson5\ProjectTestThread\ProjectTestThread\obj\Debug\net5.0-windows\ProjectTestThread.csproj.CoreCompileInputs.cache
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson5\ProjectTestThread\ProjectTestThread\obj\Debug\net5.0-windows\ProjectTestThread.dll
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson5\ProjectTestThread\ProjectTestThread\obj\Debug\net5.0-windows\ref\ProjectTestThread.dll
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson5\ProjectTestThread\ProjectTestThread\obj\Debug\net5.0-windows\ProjectTestThread.pdb
+C:\Users\chin1\OneDrive\Desktop\GeekBrains\C# 3 курс\Lesson5\ProjectTestThread\ProjectTestThread\obj\Debug\net5.0-windows\ProjectTestThread.genruntimeconfig.cache
